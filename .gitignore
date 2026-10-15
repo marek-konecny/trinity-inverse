@@ -1,0 +1,41 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# OS / Editor artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Intermediate checkpoints (keep best_model*.pth via Git LFS)
+checkpoint_epoch_*.pth
+latest_model*.pth
+*.pt
+
+# Generated TIFFs & caches (except dataset)
+*.tif
+*.tiff
+*_readme.txt
+*.zip
+**/inferred_latents/**/*.npz
+**/inferred_latents/**/*.json
+
+# Un-ignore dataset TIFFs
+!trinity_sem_dataset/**/*.tiff
+

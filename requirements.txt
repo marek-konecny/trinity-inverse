@@ -1,0 +1,16 @@
+torch>=2.0.0
+torchvision>=0.15.0
+tifffile
+numpy
+scipy
+pandas
+tqdm
+matplotlib
+seaborn
+scikit-image
+opencv-python
+cellpose
+PyQt6
+pyqtgraph
+PyOpenGL
+PyOpenGL-accelerate

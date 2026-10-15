@@ -1,0 +1,83 @@
+{
+    "det_p_vectors": [
+        [
+            NaN,
+            NaN
+        ],
+        [
+            NaN,
+            NaN
+        ],
+        [
+            NaN,
+            NaN
+        ]
+    ],
+    "det_alpha_logits": [
+        [
+            [
+                [
+                    NaN
+                ]
+            ],
+            [
+                [
+                    NaN
+                ]
+            ],
+            [
+                [
+                    NaN
+                ]
+            ]
+        ]
+    ],
+    "se_beta": [
+        [
+            [
+                [
+                    NaN
+                ]
+            ]
+        ]
+    ],
+    "det_se_w": [
+        [
+            [
+                [
+                    NaN
+                ]
+            ],
+            [
+                [
+                    NaN
+                ]
+            ],
+            [
+                [
+                    NaN
+                ]
+            ]
+        ]
+    ],
+    "det_se_b": [
+        [
+            [
+                [
+                    NaN
+                ]
+            ],
+            [
+                [
+                    NaN
+                ]
+            ],
+            [
+                [
+                    NaN
+                ]
+            ]
+        ]
+    ],
+    "total_parameters": 1929082
+}
