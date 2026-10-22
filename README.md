@@ -1,8 +1,8 @@
-![](src_paper/figs/teaser.png)
+![](resources/teaser.svg)
 
 # Adaptive Inverse Rendering and Denoising in Single-View Multi-Detector Scanning Electron Microscopy
 
-**TODO 2026** · [github.com/marek-konecny/trinity-inverse](https://github.com/marek-konecny/trinity-inverse)
+**TODO 2026** · [cphoto.fit.vutbr.cz/trinity](https://cphoto.fit.vutbr.cz/trinity/)
 
 Given a triplet of co-registered SEM scans from different detectors, the model decomposes them into surface normals, material contrast, and frequency-specific residuals via predominantly self-supervised adaptation to each sample: without explicit detector calibration.
 
