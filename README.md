@@ -1,4 +1,4 @@
-![](src_paper/figs/teaser.png)
+![](resources/teaser.svg)
 
 # Adaptive Inverse Rendering and Denoising in Single-View Multi-Detector Scanning Electron Microscopy
 
